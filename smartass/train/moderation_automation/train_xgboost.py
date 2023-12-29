@@ -1,8 +1,3 @@
-"""
-THIS CODE IS NOW MESS BECAUSE I USE FUNCTIONAL PROGRAMMING
-YOU DO NOT NEED TO UNDERSTAND THIS CODE. THIS CODE JUST TRAINS XGBOOST MODEL
-"""
-
 import sys
 sys.setrecursionlimit( 2147483647 ) # I want fucking fp paradigm. Do NOT want to deal with fucking recursion limits
 sys.path.append("../../") # I need to import preprocess
