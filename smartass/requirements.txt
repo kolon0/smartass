@@ -1,0 +1,10 @@
+telethon
+cryptg
+pillow
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+sentence_transformers
+schedule
